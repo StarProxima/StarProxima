@@ -2,7 +2,4 @@
 
 
 
-![](https://streak-stats.demolab.com?user=StarProxima&theme=github-dark-blue&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=StarProxima&hide=cmake&layout=compact&theme=github_dark&hide_border=true)
-
-
-
+![](https://streak-stats.demolab.com?user=StarProxima&theme=github-dark-blue&hide_border=true&mode=weekly)![](https://github-readme-stats.vercel.app/api/top-langs/?username=StarProxima&hide=cmake&layout=compact&theme=github_dark&hide_border=true)
