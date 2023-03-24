@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=StarProxima&fontSize=75&animation=twinkling&fontAlignY=36&desc=Flutter-developer,%20Co-founder%20of%20NullExp&descAlignY=56)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=StarProxima&fontSize=75&animation=twinkling&fontAlignY=36&desc=Software%20Engineer,%20Flutter-developer&descAlignY=56)
 
 
 
