@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I'm a passionate **Software Engineer** with a focus on **Flutter development**. With **3.5+ years of experience**, I've contributed to a wide range of projects, from simple utilities to complex applications.
+I'm a passionate **Software Engineer** with a focus on **Flutter development**. With **3+ years of experience**, I've contributed to a wide range of projects, from simple utilities to complex applications.
 
 My core skills include mobile app development, state management, UI/UX design, as well as software architecture and system design.
 
