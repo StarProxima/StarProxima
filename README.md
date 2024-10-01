@@ -10,13 +10,13 @@
 
 I'm a passionate **Software Engineer** with a focus on **Flutter development**. With **3+ years of experience**, I've contributed to a wide range of projects, from simple utilities to complex applications.
 
-My core skills include mobile app development, state management, UI/UX design, as well as software architecture and system design.
+My core skills include mobile, desktop and web app development, UI/UX design, as well as software architecture and system design.
 
 ### 🚀 My Expertise:
 - **Flutter & Dart** for cross-platform development
-- Integration of **REST APIs**, **WebRTC** and **WebSockets** in mobile, desktop and web applications
+- Integration of **REST APIs**, **WebRTC** and **WebSockets** in various applications
 - **CI/CD pipelines** for automated build processes
-- Experience working with native platforms (Swift, Kotlin) and FFI (Go, C#)
+- Experience working with native platforms (Kotlin, Swift) and FFI (Go, C#)
 - Writing clean, maintainable, and scalable code
 
 ### 🔗 Let's connect!
