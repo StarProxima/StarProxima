@@ -6,7 +6,7 @@
   <img src="https://streak-stats.demolab.com?user=StarProxima&theme=github-dark-blue&hide_border=true"></img>
 </p>
 
-## 👋 Hi, I'm StarProxima!
+## 👋 About Me
 
 I'm a passionate **Software Engineer** with a focus on **Flutter development**. With **3.5+ years of experience**, I've contributed to a wide range of projects, from simple utilities to complex applications.
 
