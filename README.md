@@ -17,7 +17,7 @@ My core skills include mobile, desktop and web app development, UI/UX design, as
 - Writing clean, maintainable, and scalable code
 - **CI/CD pipelines** for automated build processes
 - Integration of **REST APIs**, **WebRTC** and **WebSockets** for real-time, high-load services (e.g., collaborative pixel art app)
-- Native platform development using **Kotlin** with Jetpack Compose for Android and **Swift** with SwiftUI for iOS.
+- Native platform development using **Kotlin** and **Swift**
 - As well as native Flutter integrations using **native plugins**, **platform channels** and **FFI** (including even interfacing with **Go** and **C#**).
 
 ### 🔗 Let's connect!
