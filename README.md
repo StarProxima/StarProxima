@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=StarProxima&fontSize=75&animation=twinkling&fontAlignY=36&desc=Software%20Engineer,%20Flutter%20Developer&descAlignY=56)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=StarProxima&fontSize=75&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20|%20Flutter%20Developer&descAlignY=56)
 
 ![](https://hit.yhype.me/github/profile?user_id=34741787)
 
